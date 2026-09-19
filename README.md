@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hello! 👋
 
-<!--
-**bokkaharish09/bokkaharish09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--Building What I Used to Recommend
 
-Here are some ideas to get you started:
+Documenting how I use AI-assisted development to extend a product and analytics background into hands-on technical execution.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My background spans product management, data analytics, and functional consulting — including agentic AI platforms at GEP Worldwide and product ownership on enterprise fintech and edtech systems. This space is where I apply that foundation to building: using AI as a core collaborator to design, prototype, and evaluate real systems rather than just specify them.
+
+What's here:
+
+* 🧠 AI-assisted builds — agents, UX, and design systems developed through close AI collaboration
+* 📊 Strategy & problem-solving — structured case work on real business questions
+* 🐍 Data & analytics — SQL/Python work grounding the builds in evidence, not just intuition
+
+Working toward Forward Deployed PM / AI PM roles — where business judgment, technical fluency, and hands-on building meet.
+
+📓 backlogbrain.ai
