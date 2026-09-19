@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-<!--Building What I Used to Recommend
+Building What I Used to Recommend
 
 Documenting how I use AI-assisted development to extend a product and analytics background into hands-on technical execution.
 
