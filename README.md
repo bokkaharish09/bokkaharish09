@@ -14,4 +14,4 @@ What's here:
 Working toward Forward Deployed PM / AI PM roles — where business judgment, technical fluency, and hands-on building meet.
 Reach me: _bokka.h09@gmail.com_
 
-📓 backlogbrain.ai
+📓 _backlogbrain.ai_
